@@ -20,3 +20,9 @@ Git is a version control system and allows you to make changes on your local com
 
 f. What does git diff do?
 Shows changes between the current file and the newly submitted file. It shows the change between the project on the local computer and the project on GitHub.
+
+What is the main branch?
+It is the place where the final information about the project is sent and combined from the branches created within the scope of the project.
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Doing this is out of the question. However, when we make progress on the project, we send a pull request to the main branch to be accepted the changes. Only if the project manager accepts the changes will be transferred to the main branch.
