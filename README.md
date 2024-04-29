@@ -15,3 +15,8 @@ First of all, you should Fork and copy the Repositories to be used in your own G
 d. Give me a step by step guide on how to add someone to your repository.
 First, a new Repository is created in your own GitHub account. Then that Repository opens. In the menu bar, there is “SETTINGS”, opening Settings on the left side there is “MANAGE ACCESS” and you can see in the middle of the page the “INVITE A COLLABORATOR” button. From the page that opens, you can search and invite people by username or e-mail. Once the people you invite confirm their e-mail, they become available.
 
+e. What is the difference between git and GitHub?
+Git is a version control system and allows you to make changes on your local computer. GitHub, on the other hand, is a control system that allows you to perform the same operation on the internet, that is, in the claud environment.
+
+f. What does git diff do?
+Shows changes between the current file and the newly submitted file. It shows the change between the project on the local computer and the project on GitHub.
